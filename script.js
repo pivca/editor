@@ -92,7 +92,7 @@ function KorigovanjeDelete(){
        
     });
      
-   //komentar 
+   //komentarce
 
  }
  
